@@ -1,0 +1,50 @@
+[
+    {
+        "id": "3f0de9b671c5663f",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "50cc10041c471313",
+        "type": "tab",
+        "label": "Flow 2",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "3e75e40a21a1d474",
+        "type": "debug",
+        "z": "3f0de9b671c5663f",
+        "name": "debug 1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 200,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "d193c249ce40aa64",
+        "type": "debug",
+        "z": "50cc10041c471313",
+        "name": "debug 2",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 220,
+        "y": 100,
+        "wires": []
+    }
+]
